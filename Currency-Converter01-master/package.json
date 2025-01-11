@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "build": "vite build", // or your build command
+    "start": "vite"        // or the command to start your server
+  }
+}
+{
   "name": "currency-converter",
   "private": true,
   "version": "0.0.0",
