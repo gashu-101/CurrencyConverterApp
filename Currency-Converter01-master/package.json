@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "vite build", // or your build command
-    "start": "vite"        // or the command to start your server
+    "build": "vite build", 
+    "start": "vite"        
   }
 }
 {
