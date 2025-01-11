@@ -1,0 +1,6 @@
+[build]
+  start = { command = "npm run start" }
+  build = { command = "npm install" }
+
+[version]
+  version = "1.0"
